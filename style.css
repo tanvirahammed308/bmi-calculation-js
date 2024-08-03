@@ -1,0 +1,39 @@
+.container{
+    background-color: rgb(56, 56, 194);
+    color: beige;
+    width: 550px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.container h2{
+    text-align: center;
+}
+.form{
+    background-color: rgb(42, 119, 119);
+    padding: 20px;
+  
+}
+.input-box{
+   margin-left: 40px;
+   padding: 7px 10px;
+   border-radius: 5px;
+   outline: none;
+  
+}
+.btn{
+    margin: 20px 220px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.result-box{
+    
+    background-color: rgb(221, 238, 127);
+    color: rgb(8, 8, 0);
+    width: 600px;
+   
+    margin: 20px auto;
+}
+.result-box h2{
+    text-align: center;
+    padding: 10px;
+}
